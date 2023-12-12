@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-THis is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+THis is a ✨ _special_ ✨ repository because its `README.md` (this file) tell you about me and what my goals are!
 
 
 - 🔭 I’m currently a 3rd year student at Universitas Komputer Indonesia (UNIKOM)
